@@ -1,0 +1,46 @@
+{
+  "name": "date_utilities",
+  "description": "Handy dandy date utilities for formatting, calculating, etc.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jstrinko/date_utilities",
+  "author": {
+    "name": "Jeff Strinko",
+    "email": "jstrinko@gmail.com",
+    "url": "http://github.com/jstrinko"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstrinko/date_utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jstrinko/date_utilities/issues"
+  },
+  "files": [
+    "lib/date_utilities.js"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jstrinko/date_utilities/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/date_utilities.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "date",
+    "date formatting",
+    "date utilities"
+  ],
+  "_npmUser": {
+    "name": "jstrinko",
+    "email": "jstrinko@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jstrinko",
+      "email": "jstrinko@gmail.com"
+    }
+  ]
+}
